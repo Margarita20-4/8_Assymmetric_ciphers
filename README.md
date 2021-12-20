@@ -4,6 +4,8 @@
 ### Цель работы
 
 Познакомиться с принципами работы протоколов рукопожатия в современных компьютерных системах
+![image](https://user-images.githubusercontent.com/70980145/146697901-e70c8150-c620-480f-85b8-9658e8887dbc.png)
+![image](https://user-images.githubusercontent.com/70980145/146697909-8eef079c-bcd1-400d-baf4-8309386b35fe.png)
 
 
 ### Задания для выполнения
